@@ -3,3 +3,5 @@
 
 const str1 = "Android";
 const str2 = "Iphone";
+
+// const noDuplicates = (word:string) => new Set (word.toLowerCase()).size===word.length;
